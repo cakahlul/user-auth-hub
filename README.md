@@ -1,17 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## User Authentication & Account Management Frontend
 
 This repository contains the frontend implementation for handling user-related functionalities such as authentication and account management. The primary focus is on providing a seamless user experience for secure login, registration, and account settings.
 
+This application build on top of clean architecture using next framework with typescript.
+
 ## Key Features:
 
-Single Sign-On (SSO): Streamlined login flow with SSO integration for easy access.
-User Registration: Secure and user-friendly registration with email verification.
-Password Management: Includes password reset and forgotten password functionality.
-Account Settings: Allows users to change their password, email, and manage other account-related settings.
-Two-Factor Authentication (2FA): Optional support for enhancing account security with 2FA.
-Security Best Practices: Implements industry-standard security measures, including encrypted communication and secure password handling.
+- Single Sign-On (SSO): Streamlined login flow with SSO integration for easy access.
+- User Registration: Secure and user-friendly registration with email verification.
+- Password Management: Includes password reset and forgotten password functionality.
+- Account Settings: Allows users to change their password, email, and manage other account-related settings.
+- Two-Factor Authentication (2FA): Optional support for enhancing account security with 2FA.
+- Security Best Practices: Implements industry-standard security measures, including encrypted communication and secure password handling.
 
 ## Tech Stack:
 
