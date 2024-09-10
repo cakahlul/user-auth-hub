@@ -1,5 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## User Authentication & Account Management Frontend
+
+This repository contains the frontend implementation for handling user-related functionalities such as authentication and account management. The primary focus is on providing a seamless user experience for secure login, registration, and account settings.
+
+## Key Features:
+
+Single Sign-On (SSO): Streamlined login flow with SSO integration for easy access.
+User Registration: Secure and user-friendly registration with email verification.
+Password Management: Includes password reset and forgotten password functionality.
+Account Settings: Allows users to change their password, email, and manage other account-related settings.
+Two-Factor Authentication (2FA): Optional support for enhancing account security with 2FA.
+Security Best Practices: Implements industry-standard security measures, including encrypted communication and secure password handling.
+
+## Tech Stack:
+
+Framework: [React/NextJS]
+API Integration: [REST] for seamless interaction with the backend.
+
 ## Getting Started
 
 First, run the development server:
@@ -34,3 +52,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Contributions:
+
+Feel free to open issues, submit PRs, or suggest improvements.
